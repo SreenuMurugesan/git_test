@@ -1,3 +1,5 @@
 This is a test file. Trail #1.
 
-File updated in git
+File updated in git.
+
+Pull request success.
