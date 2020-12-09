@@ -15,3 +15,7 @@ Pull request 2.
 Pull request 3.
 
 Day2 Pull request.
+
+Pull request success.
+
+Merge success.
